@@ -9,7 +9,7 @@ const Footer = () => {
         <h1 className='gradient__text'>Faça parte do futuro <br/> antes de todos</h1>
       </div>
       <div className='gpt3__footer-btn'>
-        <p>Requesite acesso prévio</p>
+        <p>Requisite acesso prévio</p>
       </div>
 
       <div className='gpt3__footer-links'>
